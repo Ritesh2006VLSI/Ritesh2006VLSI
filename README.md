@@ -22,8 +22,6 @@
 👉 Repository:  
 https://github.com/Ritesh2006VLSI/4-Bit-ALU-Verilog
 
----
-
 ### 🔹 4-bit Comparator using 4:1 Multiplexer (Verilog HDL)
 - Designed a hierarchical 4-bit digital comparator in Verilog HDL  
 - Performed comparison **bit by bit**, starting from MSB to LSB  
