@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Ritesh Kumar
 
-<!--
-**Ritesh2006VLSI/Ritesh2006VLSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering undergraduate at **IIT Ropar**  
+💻 Interested in **Digital Design, Verilog HDL, and VLSI**  
+🚀 Actively building RTL design and verification projects  
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+- Verilog HDL
+- Digital Logic Design
+- RTL Coding & Simulation
+- Vivado (Simulation)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+### 🔹 4-bit ALU using 8:1 Multiplexer (Verilog HDL)
+- Designed a modular 4-bit Arithmetic Logic Unit using Verilog HDL  
+- Implemented operation selection using an 8:1 multiplexer  
+- Developed a self-written testbench for functional verification  
+- Verified all operations using simulation waveforms in Vivado  
+
+👉 Repository:  
+https://github.com/Ritesh2006VLSI/4-Bit-ALU-Verilog
+
+## 🎯 Career Interests
+- VLSI Design
+- Digital IC Design
+- RTL Development
+- Semiconductor Internships
+
+## 📫 Contact
+- 📧 Email: **rkharwal2006@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/ritesh-kumar-378298323/
+- 📱 Mobile: **+91 6283053621**
