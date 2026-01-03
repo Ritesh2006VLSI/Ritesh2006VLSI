@@ -13,6 +13,26 @@
 
 ## 📌 Projects
 
+### 🔹 Digital Clock (Verilog HDL)
+-HH:MM:SS digital clock using synchronous counters
+-Clock divider for accurate 1 Hz timing
+-Modular design: seconds, minutes, hours
+-Fully verified using testbench & waveform analysis
+
+👉 Repository:  
+https://github.com/Ritesh2006VLSI/Digital-Clock-verilog
+
+### 🔹 Traffic Light Controller (FSM Based)
+-Realistic traffic light sequencing using FSM
+-Different timing for Red / Yellow / Green
+-Pedestrian Walk / Don’t Walk signals
+-Pedestrian request button
+-Emergency vehicle priority handling
+-Minimum green time enforcement
+
+👉 Repository:
+https://github.com/Ritesh2006VLSI/Traffic-Light-Using-FSM-in-Verilog
+
 ### 🔹 4-bit ALU using 8:1 Multiplexer (Verilog HDL)
 - Designed a modular 4-bit Arithmetic Logic Unit using Verilog HDL  
 - Implemented operation selection using an 8:1 multiplexer  
@@ -32,14 +52,18 @@ https://github.com/Ritesh2006VLSI/4-Bit-ALU-Verilog
 👉 Repository:  
 https://github.com/Ritesh2006VLSI/4-Bit-Comparator-Verilog
 
-
 ## 🎯 Career Interests
 - VLSI Design
 - Digital IC Design
 - RTL Development
 - Semiconductor Internships
 
+## 🛠 Tools & Technologies
+-Verilog HDL
+-Xilinx Vivado
+-Git & GitHub
+
 ## 📫 Contact
 - 📧 Email: **rkharwal2006@gmail.com**
-- 🔗 LinkedIn: https://www.linkedin.com/in/ritesh-kumar-378298323/
+- 🔗 LinkedIn: https://www.linkedin.com/in/ritesh-vlsi/
 - 📱 Mobile: **+91 6283053621**
