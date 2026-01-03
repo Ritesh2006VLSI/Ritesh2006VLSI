@@ -30,7 +30,7 @@ https://github.com/Ritesh2006VLSI/Digital-Clock-verilog
 - Emergency vehicle priority handling
 - Minimum green time enforcement
 
-👉 Repository:
+👉 Repository:  
 https://github.com/Ritesh2006VLSI/Traffic-Light-Using-FSM-in-Verilog
 
 ### 🔹 4-bit ALU using 8:1 Multiplexer (Verilog HDL)
