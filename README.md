@@ -59,9 +59,9 @@ https://github.com/Ritesh2006VLSI/4-Bit-Comparator-Verilog
 - Semiconductor Internships
 
 ## 🛠 Tools & Technologies
--Verilog HDL
--Xilinx Vivado
--Git & GitHub
+- Verilog HDL
+- Xilinx Vivado
+- Git & GitHub
 
 ## 📫 Contact
 - 📧 Email: **rkharwal2006@gmail.com**
