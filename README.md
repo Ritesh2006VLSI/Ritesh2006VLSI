@@ -14,21 +14,21 @@
 ## 📌 Projects
 
 ### 🔹 Digital Clock (Verilog HDL)
--HH:MM:SS digital clock using synchronous counters
--Clock divider for accurate 1 Hz timing
--Modular design: seconds, minutes, hours
--Fully verified using testbench & waveform analysis
+- HH:MM:SS digital clock using synchronous counters
+- Clock divider for accurate 1 Hz timing
+- Modular design: seconds, minutes, hours
+- Fully verified using testbench & waveform analysis
 
 👉 Repository:  
 https://github.com/Ritesh2006VLSI/Digital-Clock-verilog
 
 ### 🔹 Traffic Light Controller (FSM Based)
--Realistic traffic light sequencing using FSM
--Different timing for Red / Yellow / Green
--Pedestrian Walk / Don’t Walk signals
--Pedestrian request button
--Emergency vehicle priority handling
--Minimum green time enforcement
+- Realistic traffic light sequencing using FSM
+- Different timing for Red / Yellow / Green
+- Pedestrian Walk / Don’t Walk signals
+- Pedestrian request button
+- Emergency vehicle priority handling
+- Minimum green time enforcement
 
 👉 Repository:
 https://github.com/Ritesh2006VLSI/Traffic-Light-Using-FSM-in-Verilog
