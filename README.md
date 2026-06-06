@@ -13,6 +13,16 @@
 
 ## 📌 Projects
 
+### 🔹 Universal Shift Register (Verilog HDL)
+- Designed and implemented a 4-bit Universal Shift Register in Verilog HDL
+- Supports Hold, Parallel Load, Shift Left, and Shift Right operations
+- Synchronous design using clocked flip-flops and control logic
+- Developed a comprehensive testbench for verification
+- Validated functionality through simulation waveform analysis
+
+👉 Repository:  
+https://github.com/Ritesh2006VLSI/Universal-Shift-Register
+
 ### 🔹 Digital Clock (Verilog HDL)
 - HH:MM:SS digital clock using synchronous counters
 - Clock divider for accurate 1 Hz timing
