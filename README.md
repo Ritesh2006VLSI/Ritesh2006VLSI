@@ -45,7 +45,7 @@ A library of fundamental digital circuits implemented in Verilog HDL:
 * Shift Registers
 
 👉 Repository:
-https://github.com/Ritesh2006VLSI/Digital-Design-Circuits
+https://github.com/Ritesh2006VLSI/VerilogDigitalDesignLibrary
 
 ## 🎯 Career Interests
 
