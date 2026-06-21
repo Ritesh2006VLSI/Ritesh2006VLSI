@@ -28,10 +28,10 @@ A structured, hierarchical repository of 40+ parameterized RTL IP blocks with ex
 
 ## 🔧 Technical Skills
 
-* **Hardware & Programming Languages:** Verilog HDL (IEEE 1364-2001), SystemVerilog (Basic), C, C++, Python
-* **RTL & Digital Design:** Microarchitecture, FSM Design, Custom Datapaths, Hardware Interrupts
-* **EDA & Simulation Tools:** Xilinx Vivado, ModelSim, Intel Quartus, GTKWave, Qucs-S
-* **Core VLSI Concepts:** Static Timing Analysis (STA), RTL Verification, CMOS Basics
+* **Hardware & Programming Languages:** Verilog HDL, C, C++
+* **RTL & Digital Design:** Combinational & Sequential Design, FSM Design,Behavioural Modelling
+* **EDA & Simulation Tools:** Xilinx Vivado, ModelSim, Intel Quartus, Qucs-S
+* **Core VLSI Concepts:** Digital Electronics, Verilog HDL, Finite State Machine (FSM), Static Timing Analysis (STA), RTL Verification, CMOS
 
 ---
 
