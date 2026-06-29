@@ -1,41 +1,171 @@
 # Hi 👋 I'm Ritesh Kumar
 
-**Electrical Engineering Undergraduate at IIT Ropar | Aspiring Digital IC Design & RTL Verification Engineer**
+**Electrical Engineering Undergraduate at IIT Ropar | Aspiring RTL Design & Digital IC Design Engineer**
 
-I am a hardware engineering student focused on Digital Design, RTL Development, and Computer Architecture. I specialize in taking digital systems from concept to exhaustive verification using Verilog HDL.
-
-### 🏆 Honors & Achievements
-* **Texas Instruments BYTE Program Scholar (2026):** Selected for the highly competitive 'Build Your Technical Edge' training program in core analog and digital design.
-* **Global Rank 7522 on HDLBits:** Solved 135/180 advanced RTL design, verification, and FSM challenges. [View Profile](https://hdlbits.01xz.net/wiki/Special:VlgStats/E0484A908EF8A0AF)
+I am an Electrical Engineering undergraduate at IIT Ropar with a strong interest in Digital Design, RTL Development, Computer Architecture, and VLSI. I enjoy designing synthesizable hardware using Verilog HDL, verifying functionality through simulation, and building reusable digital IP blocks for FPGA and ASIC design flows.
 
 ---
 
-## 📂 Featured Repositories
+## 🏆 Honors & Achievements
 
-### 🔹 [System-Level RTL Projects](https://github.com/Ritesh2006VLSI/Projects)
-My primary repository for complex, top-level hardware architectures. 
-* **32-bit RISC-V Microprocessor (RV32I):** Single-cycle CPU datapath and control unit supporting the base integer instruction set. *(In Active Development)*
-* **Synchronous FIFO Controller:** High-speed data buffering utilizing custom True Dual-Port RAM and safe pointer wrapping logic. *(In Active Development)*
-* **Advanced Elevator Control System:** System-level hardware controller separating control-path state machines from datapath counters.
+- **Texas Instruments BYTE Program Scholar (2026)** – Selected for the competitive **Build Your Technical Edge (BYTE)** program focused on core Analog Electronics .
+- **Global Rank 1457 on HDLBits** – Solved **180/182 RTL Design, FSM, and Verification** problems.
+- Strong foundation in **Digital Electronics, Computer Architecture, RTL Design, and Hardware Verification.**
 
-### 🔹 [Comprehensive Verilog Digital Circuit Library](https://github.com/Ritesh2006VLSI/VerilogDigitalDesignLibrary)
-A structured, hierarchical repository of 40+ parameterized RTL IP blocks with exhaustive self-checking testbenches.
-* **Arithmetic Datapaths:** Carry-Lookahead (CLA) & Carry-Select Adders (CSA), Multipliers, ALUs.
-* **Sequential Logic:** Mod-N, Johnson, and Ring counters, Universal Shift Registers.
-* **FSM & Control Logic:** Moore/Mealy sequence detectors and Traffic Light Controllers.
+---
+
+## 🚀 Featured Projects
+
+### 🔹 System-Level RTL Projects
+**Repository:** https://github.com/Ritesh2006VLSI/Projects
+
+Projects focused on complete digital systems and computer architecture.
+
+#### • 32-bit RISC-V Processor (RV32I)
+- Single-cycle implementation of the RV32I Base Integer ISA
+- Modular datapath and control unit architecture
+- ALU, Register File, Instruction Memory, Data Memory, Immediate Generator, Program Counter
+- Branch and Jump instruction support
+- Functional verification using Verilog testbenches
+
+#### • UART + Asynchronous FIFO + Dual-Port RAM
+- Parameterized UART Transmitter & Receiver
+- Clock-domain crossing using Asynchronous FIFO
+- Custom True Dual-Port RAM
+- High-speed buffered serial communication
+- Modular RTL architecture
+
+#### • Elevator Control System
+- Multi-floor elevator controller using Finite State Machines
+- Modular datapath and controller separation
+- Request scheduling and floor sequencing
+- Synthesizable RTL implementation
+
+---
+
+### 🔹 Verilog Digital Design Library
+**Repository:** https://github.com/Ritesh2006VLSI/VerilogDigitalDesignLibrary
+
+A collection of **40+ synthesizable Verilog modules** with dedicated simulation testbenches.
+
+Includes:
+
+- Arithmetic Units
+  - ALU
+  - Adders
+  - Subtractors
+  - Multipliers
+  - Comparators
+
+- Combinational Logic
+  - Multiplexers
+  - Demultiplexers
+  - Encoders
+  - Priority Encoders
+  - Decoders
+
+- Sequential Logic
+  - Universal Shift Registers
+  - Ring Counters
+  - Johnson Counters
+  - Mod-N Counters
+  - Registers
+
+- FSM Designs
+  - Traffic Light Controller
+  - Sequence Detectors
+  - Elevator Controller
+
+- Memory Components
+  - FIFOs
+  - Dual-Port RAM
 
 ---
 
 ## 🔧 Technical Skills
 
-* **Hardware & Programming Languages:** Verilog HDL, C, C++
-* **RTL & Digital Design:** Combinational & Sequential Design, FSM Design,Behavioural Modelling
-* **EDA & Simulation Tools:** Xilinx Vivado, ModelSim, Intel Quartus, Qucs-S
-* **Core VLSI Concepts:** Digital Electronics, Verilog HDL, Finite State Machine (FSM), Static Timing Analysis (STA), RTL Verification, CMOS
+### Hardware Description Languages
+- Verilog HDL
+
+### Programming Languages
+- C
+- C++
+
+### RTL & Digital Design
+- RTL Design
+- Combinational Logic
+- Sequential Logic
+- FSM Design
+- Parameterized RTL Design
+- Behavioral Modeling
+
+### Computer Architecture
+- RISC-V (RV32I)
+- Datapath Design
+- Control Unit Design
+- Instruction Decode
+- ALU Design
+
+### Verification
+- Testbench Development
+- Functional Verification
+- Waveform Debugging
+- Simulation
+
+### EDA Tools
+- Xilinx Vivado
+- ModelSim
+- Intel Quartus Prime
+- Qucs-S
+
+### Core Concepts
+- Digital Electronics
+- Static Timing Analysis (STA)
+- CMOS Fundamentals
+- RTL Design Flow
+- FPGA Design
 
 ---
 
-## 📫 Let's Connect
-- 📧 **Email:** [rkharwal2006@gmail.com](mailto:rkharwal2006@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/ritesh-vlsi](https://www.linkedin.com/in/ritesh-vlsi/)
-- 📱 **Mobile:** +91 6283053621
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritesh2006VLSI&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh2006VLSI&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ritesh2006VLSI&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Computer Architecture
+- RTL Verification
+- Static Timing Analysis (STA)
+- FPGA Design Flow
+- Digital IC Design
+- ASIC Design Fundamentals
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** rkharwal2006@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/ritesh-vlsi
+
+💻 **GitHub:** https://github.com/Ritesh2006VLSI
+
+📱 **Mobile:** +91 6283053621
+
+---
+
+> *"Design hardware that is simple, reliable, and efficient."*
