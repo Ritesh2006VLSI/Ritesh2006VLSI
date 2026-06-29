@@ -130,12 +130,17 @@ Includes:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh2006VLSI&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh2006VLSI&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritesh2006VLSI&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh2006VLSI&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ritesh2006VLSI&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Ritesh2006VLSI&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
