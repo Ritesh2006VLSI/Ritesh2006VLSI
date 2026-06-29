@@ -1,171 +1,234 @@
-# Hi 👋 I'm Ritesh Kumar
+<h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
 
-**Electrical Engineering Undergraduate at IIT Ropar | Aspiring RTL Design & Digital IC Design Engineer**
+<h3 align="center">
+Electrical Engineering Undergraduate at IIT Ropar<br>
+Aspiring RTL Design | Digital IC Design | Computer Architecture Engineer
+</h3>
 
-I am an Electrical Engineering undergraduate at IIT Ropar with a strong interest in Digital Design, RTL Development, Computer Architecture, and VLSI. I enjoy designing synthesizable hardware using Verilog HDL, verifying functionality through simulation, and building reusable digital IP blocks for FPGA and ASIC design flows.
-
----
-
-## 🏆 Honors & Achievements
-
-- **Texas Instruments BYTE Program Scholar (2026)** – Selected for the competitive **Build Your Technical Edge (BYTE)** program focused on core Analog Electronics .
-- **Global Rank 1457 on HDLBits** – Solved **180/182 RTL Design, FSM, and Verification** problems.
-- Strong foundation in **Digital Electronics, Computer Architecture, RTL Design, and Hardware Verification.**
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 System-Level RTL Projects
-**Repository:** https://github.com/Ritesh2006VLSI/Projects
-
-Projects focused on complete digital systems and computer architecture.
-
-#### • 32-bit RISC-V Processor (RV32I)
-- Single-cycle implementation of the RV32I Base Integer ISA
-- Modular datapath and control unit architecture
-- ALU, Register File, Instruction Memory, Data Memory, Immediate Generator, Program Counter
-- Branch and Jump instruction support
-- Functional verification using Verilog testbenches
-
-#### • UART + Asynchronous FIFO + Dual-Port RAM
-- Parameterized UART Transmitter & Receiver
-- Clock-domain crossing using Asynchronous FIFO
-- Custom True Dual-Port RAM
-- High-speed buffered serial communication
-- Modular RTL architecture
-
-#### • Elevator Control System
-- Multi-floor elevator controller using Finite State Machines
-- Modular datapath and controller separation
-- Request scheduling and floor sequencing
-- Synthesizable RTL implementation
+<p align="center">
+<a href="https://github.com/Ritesh2006VLSI">
+<img src="https://komarev.com/ghpvc/?username=Ritesh2006VLSI&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
+</p>
 
 ---
 
-### 🔹 Verilog Digital Design Library
-**Repository:** https://github.com/Ritesh2006VLSI/VerilogDigitalDesignLibrary
+# 👨‍💻 About Me
 
-A collection of **40+ synthesizable Verilog modules** with dedicated simulation testbenches.
+🎓 Electrical Engineering Undergraduate at **IIT Ropar**
 
-Includes:
+💻 Passionate about
+- RTL Design
+- Computer Architecture
+- Digital IC Design
+- FPGA Design
+- RTL Verification
 
-- Arithmetic Units
-  - ALU
-  - Adders
-  - Subtractors
-  - Multipliers
-  - Comparators
+⚡ Currently building
 
-- Combinational Logic
-  - Multiplexers
-  - Demultiplexers
-  - Encoders
-  - Priority Encoders
-  - Decoders
+- 32-bit RISC-V Processor (RV32I)
+- UART Communication System
+- Asynchronous FIFO
+- Dual-Port RAM
+- Parameterized RTL IP Library
 
-- Sequential Logic
-  - Universal Shift Registers
-  - Ring Counters
-  - Johnson Counters
-  - Mod-N Counters
-  - Registers
+🎯 Career Goal
 
+Become an RTL Design / Digital Design Engineer working on next-generation processors and ASICs.
+
+---
+
+# 🏆 Achievements
+
+🥇 Texas Instruments BYTE Program Scholar (2026)
+
+🏅 Solved **135+ HDLBits RTL Design Problems**
+
+🌍 HDLBits Global Rank **7522**
+
+---
+
+# 🚀 Featured Projects
+
+## 🖥️ 32-bit RISC-V Processor (RV32I)
+
+- Single-cycle Processor
+- RV32I ISA
+- Modular Datapath
+- Control Unit
+- ALU
+- Register File
+- Branch & Jump Support
+- Functional Verification
+
+---
+
+## 📡 UART + Async FIFO + Dual-Port RAM
+
+- UART Transmitter
+- UART Receiver
+- Clock Domain Crossing
+- Asynchronous FIFO
+- Parameterized Design
+- True Dual-Port RAM
+
+---
+
+## 🚦 Digital System Designs
+
+- Elevator Controller
+- Traffic Light Controller
+- Sequence Detectors
+- Universal Shift Registers
+- Counters
 - FSM Designs
-  - Traffic Light Controller
-  - Sequence Detectors
-  - Elevator Controller
-
-- Memory Components
-  - FIFOs
-  - Dual-Port RAM
 
 ---
 
-## 🔧 Technical Skills
+# 📚 Verilog Digital Design Library
 
-### Hardware Description Languages
+A collection of **40+ synthesizable RTL modules**
+
+✔ Arithmetic Circuits
+
+✔ Multiplexers
+
+✔ Encoders
+
+✔ Decoders
+
+✔ Registers
+
+✔ Counters
+
+✔ FSMs
+
+✔ Memory Modules
+
+✔ Testbenches
+
+Repository
+
+➡️ https://github.com/Ritesh2006VLSI/VerilogDigitalDesignLibrary
+
+---
+
+# 💻 Technical Skills
+
+### Languages
+
 - Verilog HDL
-
-### Programming Languages
 - C
 - C++
 
-### RTL & Digital Design
-- RTL Design
-- Combinational Logic
-- Sequential Logic
+### RTL Design
+
 - FSM Design
-- Parameterized RTL Design
+- RTL Design
 - Behavioral Modeling
+- Parameterized Design
+- Digital Logic Design
 
 ### Computer Architecture
+
 - RISC-V (RV32I)
 - Datapath Design
-- Control Unit Design
-- Instruction Decode
+- Control Unit
 - ALU Design
 
 ### Verification
-- Testbench Development
-- Functional Verification
-- Waveform Debugging
-- Simulation
 
-### EDA Tools
-- Xilinx Vivado
+- Functional Verification
+- Testbench Development
+- Waveform Debugging
+
+### Tools
+
+- Vivado
 - ModelSim
-- Intel Quartus Prime
+- Quartus Prime
 - Qucs-S
 
 ### Core Concepts
+
 - Digital Electronics
-- Static Timing Analysis (STA)
-- CMOS Fundamentals
-- RTL Design Flow
+- CMOS
+- Static Timing Analysis
 - FPGA Design
+- RTL Verification
 
 ---
 
-## 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritesh2006VLSI&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ritesh2006VLSI&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh2006VLSI&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh2006VLSI&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ritesh2006VLSI&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Ritesh2006VLSI&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 🛠 Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,cpp"/>
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vivado-FPGA-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ModelSim-Simulation-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Quartus-Intel-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RISC--V-RV32I-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
 
 - Advanced Computer Architecture
 - RTL Verification
-- Static Timing Analysis (STA)
+- Static Timing Analysis
 - FPGA Design Flow
-- Digital IC Design
-- ASIC Design Fundamentals
+- ASIC Design Flow
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect with Me
 
-📧 **Email:** rkharwal2006@gmail.com
+📧 **Email**
 
-💼 **LinkedIn:** https://linkedin.com/in/ritesh-vlsi
+rkharwal2006@gmail.com
 
-💻 **GitHub:** https://github.com/Ritesh2006VLSI
+💼 **LinkedIn**
 
-📱 **Mobile:** +91 6283053621
+https://linkedin.com/in/ritesh-vlsi
+
+💻 **GitHub**
+
+https://github.com/Ritesh2006VLSI
 
 ---
 
-> *"Design hardware that is simple, reliable, and efficient."*
+<h3 align="center">
+
+"Designing Efficient Hardware, One RTL Module at a Time."
+
+</h3>
