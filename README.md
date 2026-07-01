@@ -9,7 +9,7 @@ I am an Electrical Engineering undergraduate at IIT Ropar with a strong interest
 ## 🏆 Honors & Achievements
 
 - **Texas Instruments BYTE Program Scholar (2026)** – Selected for the competitive **Build Your Technical Edge (BYTE)** program focused on core Analog and Digital IC Design.
-- **Global Rank 1457 on HDLBits** – Solved **180/182 RTL Design, FSM, and Verification** problems.
+- **Global Rank 1 on HDLBits** – Solved **all 182 RTL Design, FSM, and Verification** problems.
 - Strong foundation in **Digital Electronics, Computer Architecture, RTL Design, and Hardware Verification.**
 
 ---
