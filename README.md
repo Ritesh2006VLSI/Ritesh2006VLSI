@@ -104,7 +104,7 @@ A collection of **50+ synthesizable Verilog modules** with dedicated simulation 
 ### 🔹 Active Audio Filter
 
 **Repository:**  
-👉 https://github.com/Ritesh2006VLSI/Active-Audio-Filter
+👉 [https://github.com/Ritesh2006VLSI/Active-Audio-Filter](https://github.com/Ritesh2006VLSI/Active_Audio_Filter.git)
 
 Designed and simulated an active audio filter using **LTspice**.
 
