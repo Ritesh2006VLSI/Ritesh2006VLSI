@@ -19,7 +19,7 @@ I am an Electrical Engineering undergraduate at IIT Ropar with a strong interest
 ## 🔹 32-bit RISC-V Processor (RV32I)
 
 **Repository:**  
-👉 https://github.com/Ritesh2006VLSI/RISC-V-Single-Cycle-Processor
+👉 [https://github.com/Ritesh2006VLSI/RISC-V-Single-Cycle-Processor](https://github.com/Ritesh2006VLSI/RISC-V_Processor_32bit.git)
 
 - Single-cycle implementation of the RV32I Base Integer ISA
 - Modular datapath and control unit architecture
@@ -32,7 +32,7 @@ I am an Electrical Engineering undergraduate at IIT Ropar with a strong interest
 ## 🔹 UART + Asynchronous FIFO + Dual-Port RAM
 
 **Repository:**  
-👉 https://github.com/Ritesh2006VLSI/UART-AsyncFIFO-DualPortRAM
+👉 [https://github.com/Ritesh2006VLSI/UART-AsyncFIFO-DualPortRAM](https://github.com/Ritesh2006VLSI/UART_ClockDomainCrossing_Bridge.git)
 
 - Parameterized UART Transmitter & Receiver
 - Clock-domain crossing using Asynchronous FIFO
@@ -45,7 +45,7 @@ I am an Electrical Engineering undergraduate at IIT Ropar with a strong interest
 ## 🔹 Elevator Control System
 
 **Repository:**  
-👉 https://github.com/Ritesh2006VLSI/Elevator-Control-System
+👉 [https://github.com/Ritesh2006VLSI/Elevator-Control-System](https://github.com/Ritesh2006VLSI/Elevator-Traffic_Controller.git)
 
 - Multi-floor elevator controller using Finite State Machines
 - Request scheduling algorithm
@@ -58,7 +58,7 @@ I am an Electrical Engineering undergraduate at IIT Ropar with a strong interest
 ## 🔹 Verilog Digital Design Library
 
 **Repository:**  
-👉 https://github.com/Ritesh2006VLSI/VerilogDigitalDesignLibrary
+👉 [https://github.com/Ritesh2006VLSI/VerilogDigitalDesignLibrary](https://github.com/Ritesh2006VLSI/VerilogDigitalDesignLibrary.git)
 
 A collection of **40+ synthesizable Verilog modules** with dedicated simulation testbenches.
 
