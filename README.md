@@ -47,7 +47,7 @@ I am an Electrical Engineering undergraduate at IIT Ropar with a strong interest
 **Repository:**  
 👉 [https://github.com/Ritesh2006VLSI/Elevator-Control-System](https://github.com/Ritesh2006VLSI/Elevator-Traffic_Controller.git)
 
-- Multi-floor elevator controller using Finite State Machines
+- 4-floor elevator controller using Finite State Machines
 - Request scheduling algorithm
 - Floor sequencing logic
 - Modular controller and datapath architecture
@@ -60,7 +60,7 @@ I am an Electrical Engineering undergraduate at IIT Ropar with a strong interest
 **Repository:**  
 👉 [https://github.com/Ritesh2006VLSI/VerilogDigitalDesignLibrary](https://github.com/Ritesh2006VLSI/VerilogDigitalDesignLibrary.git)
 
-A collection of **40+ synthesizable Verilog modules** with dedicated simulation testbenches.
+A collection of **50+ synthesizable Verilog modules** with dedicated simulation testbenches.
 
 ### Arithmetic Units
 - ALU
